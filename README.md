@@ -18,7 +18,7 @@ Flouflix is an online platform designed to provide users with access to an exten
 - **Trending Movies**: Discover the most popular films according to data from the MovieDB API.
 - **User Management**: A secure system for user registration and authentication.
 
-## Technologies Used
+## Development tools
 - **Front-end**: HTML, CSS, JavaScript
 - **Back-end**: PHP
 - **Database**: MySQL/PHPMyAdmin
