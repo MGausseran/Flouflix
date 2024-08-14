@@ -1,7 +1,7 @@
 # Flouflix
 https://flouflix.free.nf/
 
-Welcome to Flouflix, a movie trailer streaming platform developed by [C.Sallet](https://github.com/celiasallet), [N.Catalano](https://github.com/cartalano), [L.Martin](https://github.com/gigithegiraffe), and [M.Gausseran](https://github.com/mgausseran). This project was completed as part of the Web Development program at Be Code Brussels and was developed within a two-week timeframe set by our coaches.
+Welcome to Flouflix, a movie trailer streaming platform developed by [C.Sallet](https://github.com/celiasallet), [N.Catalano](https://github.com/cartalano), [L.Martin](https://github.com/gigithegiraffe), and [M.Gausseran](https://github.com/mgausseran). This project was completed as part of the Web Development program at [Be Code Brussels](https://github.com/becodeorg) and was developed within a two-week timeframe set by our coaches.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
