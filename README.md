@@ -6,7 +6,7 @@ Welcome to Flouflix, a movie trailer streaming platform developed by [C.Sallet](
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Technologies Used](#technologies-used)
+- [Development tools](#development-tools)
 
 ## Project Overview
 Flouflix is an online platform designed to provide users with access to an extensive collection of movie trailers, featuring approximately 1,000 titles. The site offers a tailored experience where registered users can view trailers, leave comments, and explore trending movies based on data from the MovieDB API.
